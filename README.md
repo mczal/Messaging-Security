@@ -1,6 +1,6 @@
 # Messaging-Security
 
-This project was designed to (simple) securing communication between user with message using Springboot (This was project assignment as a part of an interview test from Dana)
+This project was designed (simple) securing communication between user with message using Springboot (This was project assignment as a part of an interview test from Dana)
 
 List of tasks:
 * Create application using Java Spring -> Done using Springboot
