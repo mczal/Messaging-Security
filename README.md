@@ -12,5 +12,5 @@ Bonus tasks:
 * Implement simple websocket -> Done using STOMP messaging and SockJS for client
 -- In this example, websocket has been designed for authenticated user to be able to see their inbox message interactively. See endpoint /ws-messaging
 
-Addition Feature:
+Additional Feature:
 * Swagger documentation to see and test all API documentation -> See endpoint /swagger-ui.html
