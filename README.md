@@ -14,7 +14,7 @@ Bonus tasks:
 -- In this example, websocket has been designed for authenticated user to be able to see their inbox message interactively. See endpoint **/ws-messaging**
 
 Additional Feature:
-- [x] Swagger documentation to see and test all API documentation -> See endpoint **/swagger-ui.html**
+- [x] Swagger documentation to see and test all available API documentation -> See endpoint **/swagger-ui.html**
 
 Information:
 * Bootstraped user has been created in *com.test.dana.utils.JPABootstrap* 
