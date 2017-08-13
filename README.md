@@ -16,4 +16,12 @@ Bonus tasks:
 Additional Feature:
 - [x] Swagger documentation to see and test all API documentation -> See endpoint **/swagger-ui.html**
 
+Information:
+* Bootstraped user has been created in *com.test.dana.utils.JPABootstrap* 
+```sh
+username : mczal
+email : mczal@dana.id
+password : 123
+```
+
 -- [Mohamad Fahrizal Septrianto](https://www.linkedin.com/in/mczal/) --
